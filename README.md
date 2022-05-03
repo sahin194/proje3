@@ -16,4 +16,4 @@ Eğer iyi dağılmışsa her seferinde n/2 karşılaşma yaptığından Time Com
 Eğer kötü dağılmışsa her seferinde n/2 karşılaşma yapamadığından Time Complexity O(n.log(n)) adımda olur.
 
 
-
+[patika.dev](www.patika.dev)
