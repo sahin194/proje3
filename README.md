@@ -1,5 +1,9 @@
 # Proje3
 
+
+[patika.dev](www.patika.dev)
+
+
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 
@@ -15,5 +19,3 @@ Diyelimki pivotumuzu 7 olarak aldık. 7 den sonraki her sayı 7' ye birleşik bi
 Eğer iyi dağılmışsa her seferinde n/2 karşılaşma yaptığından Time Complexity O(log(n)) adımda olur.
 Eğer kötü dağılmışsa her seferinde n/2 karşılaşma yapamadığından Time Complexity O(n.log(n)) adımda olur.
 
-
-[patika.dev](www.patika.dev)
