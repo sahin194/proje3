@@ -1,7 +1,7 @@
 # Proje3
 
 
-[patika.dev](www.patika.dev)
+[patika.dev](https://app.patika.dev/sahinistambul)
 
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
